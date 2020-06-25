@@ -101,8 +101,6 @@ function verifyIndoor() {
     }
 }
 
-verifyIndoor();
-
 // function indoorGame
 // a game for users to play indoors
 // requires: nothing
@@ -139,5 +137,8 @@ function indoorGame() {
 
     }
 }
+
+
+verifyIndoor();
 indoorGame();
 
