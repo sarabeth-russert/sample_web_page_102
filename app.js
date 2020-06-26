@@ -8,7 +8,7 @@ function getUserName() {
     let userName = prompt("What is your name?");
 
     if (userName === "") {
-        userName = "friend"
+        userName = "friend";
     }
     return userName;
 }
